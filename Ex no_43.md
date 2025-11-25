@@ -17,8 +17,8 @@ To Write a function to display queue elements using array.
 ```
 /*
 C program to write a function to display queue elements using array.
-Developed by: AASHIKA PARVEEN M R
-RegisterNumber:  212223060002
+Developed by: DEEPASREE S
+RegisterNumber:  212222060036
 */
 #include <stdio.h>
 #define MAX 100
